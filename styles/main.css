@@ -1,0 +1,106 @@
+ /* this is for comments*/
+
+ .flex-container {
+    display: flex;
+  }
+
+ body {
+    background-image: url(../images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+ }
+
+ h1{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    text-align: center;
+    text-shadow: 2px 1px 10px #ADEFD1FF;
+    color: #00203FFF;
+ }
+
+ h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    text-align:center;
+    text-shadow: 2px 1px 10px #ADEFD1FF;
+    color: #00203FFF;
+ }
+
+ figure {
+    
+   border-color: black;
+   border-width: 2px;
+   border-style: dashed; 
+   padding: 10px;
+
+   margin-right: auto;
+   margin-left: auto;
+   height: 130px;
+   width: 125px;
+   display:block;
+
+ }
+
+.intro {
+    color: #2BAE66FF;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+nav {
+
+    font-size: 20px;
+    color: wheat !important;    
+    background-color: #0e9d9d;
+    border-radius: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    text-align: start;
+    
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+
+
+
+}
+
+.Repo {
+    color: #2BAE66FF;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+
+}
+.ambition {
+    color: #2BAE66FF;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+aside {
+
+    color: #2BAE66FF;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px; 
+    padding: 10px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+
+footer {
+    color: #2BAE66FF;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+
